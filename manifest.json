@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Explain Like I'm Five",
+  "version": "1.0",
+  "description": "Select text and explain it like you're five.",
+  "permissions": ["activeTab", "contextMenus", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": ["<all_urls>"],
+  "icons": {
+    "128": "icon.png"
+  }
+}
