@@ -1,6 +1,7 @@
 # Explain Like I'm Five - Chrome Extension
 
-A Chrome Extension that uses OpenAI to explain any selected text like you're 5 years old.
+- A Chrome Extension that uses OpenAI to explain any selected text like you're 5 years old.
+- You can download the chrome extension [here](https://chromewebstore.google.com/detail/explain-like-im-five/jcojpeajmkfipglkldfjbkicapbekgin?hl=en-US&utm_source=ext_sidebar) if you're not interested in the code.
 
 ## Features
 - Select any text on a webpage, right-click, and choose "Explain Like I'm Five" to get a simple explanation.
