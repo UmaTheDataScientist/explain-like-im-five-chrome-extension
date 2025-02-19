@@ -222,7 +222,7 @@ function showLoadingPopup() {
     
     .context-field {
       padding: 3px 17px 3px 15px; /* Space for the close icon */
-      width: 278px;
+      width: 283px;
       height: 30px;
       font-size: 13px;
       margin-top: 5px;
