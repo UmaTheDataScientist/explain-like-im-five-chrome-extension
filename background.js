@@ -280,7 +280,7 @@ function showLoadingPopup() {
 
     .btn-text {
         color: #494848;
-        font-size: 13px;
+        font-size: 14px;
         font-family: "Public Sans";
         font-weight: 600;
     }
