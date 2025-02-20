@@ -159,7 +159,7 @@ function showLoadingPopup() {
 
     #elif-explanation {
         font-weight: 400;
-        width: 310px;
+        width: 322px;
         max-height: 230px; 
         line-height: 18px;
         overflow-y: auto; 
