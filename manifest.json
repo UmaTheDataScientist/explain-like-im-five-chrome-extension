@@ -13,7 +13,13 @@
   },
   "web_accessible_resources": [
     {
-      "resources": ["icon.png"],
+      "resources": [
+        "icon.png",
+        "cancel.png",
+        "copy.png",
+        "copied.png",
+        "brandLogo.png"
+      ],
       "matches": ["<all_urls>"]
     }
   ],
